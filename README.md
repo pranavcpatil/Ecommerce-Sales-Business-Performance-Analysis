@@ -140,4 +140,5 @@ The Power BI report contains five interactive pages.
 This project helped me practise the complete data analytics workflow, from exploring and preparing datasets to analysing business questions and presenting findings through an interactive dashboard.
 
 **Author:** Pranav Chandrakant Patil
+
 **Project:** E-Commerce Sales & Business Performance Analysis

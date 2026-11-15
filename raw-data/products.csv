@@ -1,0 +1,201 @@
+product_id,product_name,category,subcategory,unit_cost,unit_price
+PROD0001,Tekpro 5G Smartphone 256GB,Electronics,Smartphones,41978.23,46999.0
+PROD0002,Lumio 5G Smartphone 256GB,Electronics,Smartphones,29892.68,33499.0
+PROD0003,Nexora Lite Smartphone 128GB,Electronics,Smartphones,14676.29,16499.0
+PROD0004,Orbix Smartphone 64GB,Electronics,Smartphones,8796.05,9749.0
+PROD0005,Boltix Pro Smartphone 256GB,Electronics,Smartphones,44390.88,49999.0
+PROD0006,Orbix Lite Smartphone 128GB,Electronics,Smartphones,9575.18,10499.0
+PROD0007,Vivido Pro Smartphone 256GB,Electronics,Smartphones,58399.61,63999.0
+PROD0008,Zentra Smartphone 64GB,Electronics,Smartphones,11203.08,12499.0
+PROD0009,Echoly Gaming Headset,Electronics,Headphones & Earbuds,3066.75,4399.0
+PROD0010,Pulsar Bluetooth Neckband,Electronics,Headphones & Earbuds,790.87,1299.0
+PROD0011,Tunezo Bluetooth Neckband,Electronics,Headphones & Earbuds,797.37,1299.0
+PROD0012,Sonique ANC Earbuds,Electronics,Headphones & Earbuds,9839.6,14999.0
+PROD0013,Beatwave Bluetooth Neckband,Electronics,Headphones & Earbuds,726.26,1199.0
+PROD0014,Echoly Wireless Earbuds,Electronics,Headphones & Earbuds,1110.46,1999.0
+PROD0015,Pulsar Gaming Headset,Electronics,Headphones & Earbuds,2283.13,3399.0
+PROD0016,Compix Student Laptop 11-inch,Electronics,Laptops & Tablets,22984.12,26499.0
+PROD0017,Nexora Student Laptop 11-inch,Electronics,Laptops & Tablets,27712.45,31499.0
+PROD0018,Vertex Student Laptop 11-inch,Electronics,Laptops & Tablets,23692.3,27499.0
+PROD0019,Nexora Laptop 15-inch i7 16GB,Electronics,Laptops & Tablets,80560.28,93499.0
+PROD0020,Tekpro Gaming Laptop 16GB,Electronics,Laptops & Tablets,99776.91,113499.0
+PROD0021,Tekpro Laptop 15-inch i7 16GB,Electronics,Laptops & Tablets,73279.38,83999.0
+PROD0022,Zenbook Lite Laptop 15-inch i7 16GB,Electronics,Laptops & Tablets,61622.64,69499.0
+PROD0023,Chronix Smart Watch,Electronics,Smart Watches & Bands,1604.18,2649.0
+PROD0024,Fitora AMOLED Smart Watch,Electronics,Smart Watches & Bands,9375.21,14999.0
+PROD0025,Chronix Fitness Band,Electronics,Smart Watches & Bands,1036.15,1399.0
+PROD0026,Boltix Fitness Band,Electronics,Smart Watches & Bands,2318.98,3349.0
+PROD0027,Lumio Fitness Band,Electronics,Smart Watches & Bands,1376.75,1899.0
+PROD0028,Boltix AMOLED Smart Watch,Electronics,Smart Watches & Bands,4417.65,6649.0
+PROD0029,Tunezo Home Theatre 5.1,Electronics,Speakers,6680.13,9349.0
+PROD0030,Tunezo Soundbar 2.1,Electronics,Speakers,3596.5,5099.0
+PROD0031,Audiox Party Speaker,Electronics,Speakers,9415.07,14999.0
+PROD0032,Echoly Bluetooth Speaker,Electronics,Speakers,2258.73,3449.0
+PROD0033,Sonique Home Theatre 5.1,Electronics,Speakers,8521.42,13499.0
+PROD0034,Beatwave Bluetooth Speaker,Electronics,Speakers,2666.95,3849.0
+PROD0035,Nexora Fast Charger 33W,Electronics,Chargers & Cables,615.51,1249.0
+PROD0036,ChargeMate USB-C Cable 1m,Electronics,Chargers & Cables,108.45,239.0
+PROD0037,Boltix Power Bank 20000mAh,Electronics,Chargers & Cables,859.02,1999.0
+PROD0038,Powerly Wireless Charger,Electronics,Chargers & Cables,761.54,1799.0
+PROD0039,Powerly Fast Charger 33W,Electronics,Chargers & Cables,372.71,969.0
+PROD0040,Boltix Fast Charger 33W,Electronics,Chargers & Cables,364.16,759.0
+PROD0041,Indigo & Co Hooded Sweatshirt,Fashion,Men's Clothing,1095.47,2349.0
+PROD0042,Indigo & Co Cotton T-Shirt,Fashion,Men's Clothing,271.86,619.0
+PROD0043,UrbanLoom Slim Fit Jeans,Fashion,Men's Clothing,936.35,1999.0
+PROD0044,Kaveri Threads Chino Trousers,Fashion,Men's Clothing,580.01,1099.0
+PROD0045,UrbanLoom Kurta Set,Fashion,Men's Clothing,747.88,1649.0
+PROD0046,RoyalWeave Chino Trousers,Fashion,Men's Clothing,568.42,1199.0
+PROD0047,UrbanLoom Cotton T-Shirt,Fashion,Men's Clothing,402.12,759.0
+PROD0048,RoyalWeave Hooded Sweatshirt,Fashion,Men's Clothing,517.65,949.0
+PROD0049,Dapper Desi Winter Jacket,Fashion,Men's Clothing,1862.81,4349.0
+PROD0050,Dapper Desi Hooded Sweatshirt,Fashion,Men's Clothing,472.94,1099.0
+PROD0051,SilkRoute Printed Saree,Fashion,Women's Clothing,1678.54,3699.0
+PROD0052,SilkRoute Cotton Kurti,Fashion,Women's Clothing,658.69,1399.0
+PROD0053,Bloom & Weave Silk Dupatta,Fashion,Women's Clothing,282.55,619.0
+PROD0054,Vastra Vibes Printed Saree,Fashion,Women's Clothing,634.59,1199.0
+PROD0055,SilkRoute Leggings Pack of 3,Fashion,Women's Clothing,328.07,749.0
+PROD0056,Nazaara Printed Saree,Fashion,Women's Clothing,1135.27,2299.0
+PROD0057,Bloom & Weave Printed Saree,Fashion,Women's Clothing,1515.06,3849.0
+PROD0058,Nazaara Maxi Dress,Fashion,Women's Clothing,367.1,919.0
+PROD0059,SilkRoute Anarkali Suit,Fashion,Women's Clothing,1101.96,2399.0
+PROD0060,Bloom & Weave Denim Jacket,Fashion,Women's Clothing,674.39,1499.0
+PROD0061,FootNest Sandals,Fashion,Footwear,612.0,1249.0
+PROD0062,SoleCraft Leather Formal Shoes,Fashion,Footwear,2023.46,3499.0
+PROD0063,Pacer Flip Flops,Fashion,Footwear,150.75,269.0
+PROD0064,Trailmate Sports Shoes,Fashion,Footwear,2203.18,3799.0
+PROD0065,Trailmate Loafers,Fashion,Footwear,838.13,1549.0
+PROD0066,WalkEase Casual Sneakers,Fashion,Footwear,1846.13,3449.0
+PROD0067,Trailmate Running Shoes,Fashion,Footwear,684.77,1499.0
+PROD0068,StrideX Sandals,Fashion,Footwear,692.77,1349.0
+PROD0069,StrideX Leather Formal Shoes,Fashion,Footwear,1204.66,2399.0
+PROD0070,StrideX Heeled Sandals,Fashion,Footwear,961.09,1849.0
+PROD0071,Bagwell Sunglasses,Fashion,Fashion Accessories,802.19,1899.0
+PROD0072,Timeless Baseball Cap,Fashion,Fashion Accessories,218.68,429.0
+PROD0073,ShadeX Laptop Sling Bag,Fashion,Fashion Accessories,690.11,1599.0
+PROD0074,Leathercraft Leather Belt,Fashion,Fashion Accessories,283.03,519.0
+PROD0075,UrbanLoom Baseball Cap,Fashion,Fashion Accessories,170.39,419.0
+PROD0076,Bagwell Backpack 30L,Fashion,Fashion Accessories,473.48,1049.0
+PROD0077,Leathercraft Laptop Sling Bag,Fashion,Fashion Accessories,1113.06,2499.0
+PROD0078,UrbanLoom Handbag,Fashion,Fashion Accessories,500.31,1049.0
+PROD0079,UrbanLoom Laptop Sling Bag,Fashion,Fashion Accessories,343.62,779.0
+PROD0080,ShadeX Sunglasses,Fashion,Fashion Accessories,1491.3,2949.0
+PROD0081,CookMate Casserole Set,Home & Kitchen,Cookware,1519.01,2599.0
+PROD0082,CookMate Stainless Steel Pan,Home & Kitchen,Cookware,535.99,889.0
+PROD0083,Chefio Non-Stick Kadai,Home & Kitchen,Cookware,476.54,689.0
+PROD0084,Annapurna Non-Stick Kadai,Home & Kitchen,Cookware,652.9,999.0
+PROD0085,Tadka Non-Stick Kadai,Home & Kitchen,Cookware,749.68,1199.0
+PROD0086,KitchenKing Non-Stick Kadai,Home & Kitchen,Cookware,855.25,1249.0
+PROD0087,CookMate Pressure Cooker 5L,Home & Kitchen,Cookware,1637.04,2599.0
+PROD0088,KitchenKing Dosa Tawa,Home & Kitchen,Cookware,544.17,849.0
+PROD0089,Thermia Sandwich Maker,Home & Kitchen,Small Appliances,1350.02,1949.0
+PROD0090,HomeEase Electric Kettle 1.5L,Home & Kitchen,Small Appliances,1129.75,1599.0
+PROD0091,Aerochef Air Fryer 4L,Home & Kitchen,Small Appliances,2962.59,4349.0
+PROD0092,Kitchenova Electric Kettle 1.5L,Home & Kitchen,Small Appliances,1029.94,1449.0
+PROD0093,Kitchenova Mixer Grinder 750W,Home & Kitchen,Small Appliances,2703.54,3899.0
+PROD0094,HomeEase Air Fryer 4L,Home & Kitchen,Small Appliances,6185.22,8899.0
+PROD0095,Kitchenova Rice Cooker,Home & Kitchen,Small Appliances,1759.16,2249.0
+PROD0096,Brewo Induction Cooktop,Home & Kitchen,Small Appliances,1743.78,2449.0
+PROD0097,Aerochef Pop-up Toaster,Home & Kitchen,Small Appliances,1781.29,2499.0
+PROD0098,Brewo Electric Kettle 1.5L,Home & Kitchen,Small Appliances,584.35,799.0
+PROD0099,WoodNest Wardrobe 2-Door,Home & Kitchen,Furniture,10993.38,16999.0
+PROD0100,Livora Dining Table 4-Seater,Home & Kitchen,Furniture,11599.22,15499.0
+PROD0101,ComfortZone Wardrobe 2-Door,Home & Kitchen,Furniture,9502.02,13999.0
+PROD0102,WoodNest Bookshelf 5-Tier,Home & Kitchen,Furniture,3282.03,4999.0
+PROD0103,Urbania Shoe Rack,Home & Kitchen,Furniture,2007.57,2699.0
+PROD0104,CasaPlus Bookshelf 5-Tier,Home & Kitchen,Furniture,4312.96,6499.0
+PROD0105,CasaPlus Sofa Cum Bed,Home & Kitchen,Furniture,12086.01,16499.0
+PROD0106,ArtNest LED String Lights,Home & Kitchen,Home Decor,380.98,779.0
+PROD0107,Lumino Photo Frame Set,Home & Kitchen,Home Decor,519.65,1199.0
+PROD0108,CasaPlus Table Lamp,Home & Kitchen,Home Decor,594.91,1099.0
+PROD0109,ArtNest Table Lamp,Home & Kitchen,Home Decor,1039.46,2149.0
+PROD0110,Lumino Table Lamp,Home & Kitchen,Home Decor,607.49,1299.0
+PROD0111,Homely LED String Lights,Home & Kitchen,Home Decor,143.61,269.0
+PROD0112,CasaPlus LED String Lights,Home & Kitchen,Home Decor,332.12,709.0
+PROD0113,DecoDen Cushion Cover Set,Home & Kitchen,Home Decor,247.84,549.0
+PROD0114,NeatNest Storage Box 3pc,Home & Kitchen,Storage & Organisation,812.87,1449.0
+PROD0115,Homely Lunch Box,Home & Kitchen,Storage & Organisation,445.36,819.0
+PROD0116,Homely Cabinet Organizer,Home & Kitchen,Storage & Organisation,472.89,929.0
+PROD0117,NeatNest Lunch Box,Home & Kitchen,Storage & Organisation,240.48,469.0
+PROD0118,Boxy Water Bottle Set,Home & Kitchen,Storage & Organisation,204.92,399.0
+PROD0119,KitchenKing Cabinet Organizer,Home & Kitchen,Storage & Organisation,391.0,859.0
+PROD0120,StoreWell Lunch Box,Home & Kitchen,Storage & Organisation,235.81,419.0
+PROD0121,PaperPlus Marker Set,Office Supplies,Stationery,142.66,229.0
+PROD0122,Writewell Highlighter Set,Office Supplies,Stationery,71.24,129.0
+PROD0123,Clerkly Stapler Kit,Office Supplies,Stationery,124.76,219.0
+PROD0124,InkJoy Marker Set,Office Supplies,Stationery,253.5,439.0
+PROD0125,PaperPlus Sticky Notes Pack,Office Supplies,Stationery,55.36,99.0
+PROD0126,PaperPlus Notebook A4 Pack of 6,Office Supplies,Stationery,198.61,359.0
+PROD0127,OfficeMate Highlighter Set,Office Supplies,Stationery,116.43,209.0
+PROD0128,Scribbl Highlighter Set,Office Supplies,Stationery,76.44,129.0
+PROD0129,Writewell Gel Pen Pack of 20,Office Supplies,Stationery,65.22,109.0
+PROD0130,Writewell Sticky Notes Pack,Office Supplies,Stationery,67.59,119.0
+PROD0131,InkJoy Gel Pen Pack of 20,Office Supplies,Stationery,152.82,249.0
+PROD0132,PaperPlus Gel Pen Pack of 20,Office Supplies,Stationery,160.75,289.0
+PROD0133,Printex Label Printer,Office Supplies,Printers & Ink,2596.38,3349.0
+PROD0134,Printex Document Scanner,Office Supplies,Printers & Ink,4769.97,5999.0
+PROD0135,InkWorks Document Scanner,Office Supplies,Printers & Ink,4310.44,5999.0
+PROD0136,Scanly Laser Printer,Office Supplies,Printers & Ink,15574.55,19499.0
+PROD0137,OfficeMate Laser Printer,Office Supplies,Printers & Ink,14695.41,18999.0
+PROD0138,Scanly Inkjet Printer,Office Supplies,Printers & Ink,3222.45,4099.0
+PROD0139,DeskPro Label Printer,Office Supplies,Printers & Ink,3650.98,5199.0
+PROD0140,OfficeMate Ink Cartridge Black,Office Supplies,Printers & Ink,911.15,1149.0
+PROD0141,DeskPro Monitor Stand,Office Supplies,Office Furniture,860.85,1349.0
+PROD0142,OfficeMate Monitor Stand,Office Supplies,Office Furniture,812.27,1249.0
+PROD0143,Clerkly Filing Cabinet,Office Supplies,Office Furniture,3077.13,4749.0
+PROD0144,OfficeMate Executive Chair,Office Supplies,Office Furniture,5023.41,7749.0
+PROD0145,Clerkly Monitor Stand,Office Supplies,Office Furniture,1419.3,2249.0
+PROD0146,OfficeMate Standing Desk,Office Supplies,Office Furniture,8608.04,12499.0
+PROD0147,ErgoWorks Footrest,Office Supplies,Office Furniture,755.33,1099.0
+PROD0148,WorkNest Monitor Stand,Office Supplies,Office Furniture,661.35,939.0
+PROD0149,OfficeMate Thermal Paper Rolls Pack,Office Supplies,Paper Products,324.52,539.0
+PROD0150,OfficeMate Chart Paper Pack,Office Supplies,Paper Products,155.1,209.0
+PROD0151,PrintPro A4 Paper Ream 500 Sheets,Office Supplies,Paper Products,223.41,329.0
+PROD0152,PrintPro A3 Copier Paper Ream,Office Supplies,Paper Products,504.46,779.0
+PROD0153,PaperPlus A4 Paper Ream 500 Sheets,Office Supplies,Paper Products,259.4,359.0
+PROD0154,Writewell Thermal Paper Rolls Pack,Office Supplies,Paper Products,302.21,419.0
+PROD0155,PrintPro Envelope Pack of 100,Office Supplies,Paper Products,255.01,389.0
+PROD0156,PaperPlus Executive Diary,Office Supplies,Paper Products,448.08,649.0
+PROD0157,Clerkly Thermal Paper Rolls Pack,Office Supplies,Paper Products,269.46,379.0
+PROD0158,OfficeMate Executive Diary,Office Supplies,Paper Products,475.63,649.0
+PROD0159,PaperPlus Envelope Pack of 100,Office Supplies,Paper Products,110.99,159.0
+PROD0160,Clerkly A3 Copier Paper Ream,Office Supplies,Paper Products,385.25,559.0
+PROD0161,ProFit Foldable Treadmill,Sports,Fitness Equipment,14695.72,21499.0
+PROD0162,Gymora Yoga Mat 6mm,Sports,Fitness Equipment,423.29,609.0
+PROD0163,Gymora Exercise Cycle,Sports,Fitness Equipment,4932.03,7649.0
+PROD0164,Gymora Ab Roller,Sports,Fitness Equipment,409.62,659.0
+PROD0165,ProFit Kettlebell 8kg,Sports,Fitness Equipment,581.27,919.0
+PROD0166,IronEdge Foldable Treadmill,Sports,Fitness Equipment,12353.95,17999.0
+PROD0167,FitForge Yoga Mat 6mm,Sports,Fitness Equipment,264.55,459.0
+PROD0168,Flexo Kettlebell 8kg,Sports,Fitness Equipment,730.67,1199.0
+PROD0169,Vigor Foldable Treadmill,Sports,Fitness Equipment,10154.99,15999.0
+PROD0170,IronEdge Resistance Band Set,Sports,Fitness Equipment,327.73,569.0
+PROD0171,SixerPro Batting Gloves,Sports,Cricket,222.73,429.0
+PROD0172,PitchPerfect Cricket Helmet,Sports,Cricket,616.33,969.0
+PROD0173,Howzat Kashmir Willow Bat,Sports,Cricket,1765.05,2849.0
+PROD0174,BatMaster Cricket Helmet,Sports,Cricket,1250.38,2049.0
+PROD0175,Willowcraft Cricket Helmet,Sports,Cricket,723.39,1149.0
+PROD0176,Howzat Cricket Kit Bag,Sports,Cricket,1375.2,2249.0
+PROD0177,Willowcraft Cricket Ball Pack of 6,Sports,Cricket,707.17,1199.0
+PROD0178,Howzat Batting Gloves,Sports,Cricket,506.19,799.0
+PROD0179,CourtKing Badminton Kit,Sports,Badminton & Racquet Sports,577.75,999.0
+PROD0180,Smashly Table Tennis Bat,Sports,Badminton & Racquet Sports,451.1,839.0
+PROD0181,CourtKing Tennis Racket,Sports,Badminton & Racquet Sports,1713.74,2699.0
+PROD0182,Shuttlex Badminton Kit,Sports,Badminton & Racquet Sports,480.37,899.0
+PROD0183,ProFit Badminton Racket,Sports,Badminton & Racquet Sports,315.82,609.0
+PROD0184,Shuttlex Table Tennis Bat,Sports,Badminton & Racquet Sports,260.72,439.0
+PROD0185,ProFit Tennis Racket,Sports,Badminton & Racquet Sports,732.32,1199.0
+PROD0186,CourtKing Table Tennis Bat,Sports,Badminton & Racquet Sports,798.1,1249.0
+PROD0187,Cyclone Hiking Shoes,Sports,Outdoor & Cycling,1532.05,2449.0
+PROD0188,Wanderer Hiking Shoes,Sports,Outdoor & Cycling,960.86,1499.0
+PROD0189,Peakly Camping Tent 3-Person,Sports,Outdoor & Cycling,1739.11,2649.0
+PROD0190,Peakly Trekking Backpack 50L,Sports,Outdoor & Cycling,2335.54,3299.0
+PROD0191,TrailBlaze Mountain Bicycle 21-Speed,Sports,Outdoor & Cycling,12616.33,18999.0
+PROD0192,Wanderer Cycling Helmet,Sports,Outdoor & Cycling,979.02,1399.0
+PROD0193,Peakly Mountain Bicycle 21-Speed,Sports,Outdoor & Cycling,6777.5,10499.0
+PROD0194,Trailmate Sports Water Bottle,Sports,Outdoor & Cycling,330.25,459.0
+PROD0195,Peakly Yoga Wheel,Sports,Yoga & Wellness,434.02,759.0
+PROD0196,Vigor Foam Roller,Sports,Yoga & Wellness,384.84,719.0
+PROD0197,Vigor Exercise Ball 65cm,Sports,Yoga & Wellness,219.82,399.0
+PROD0198,Peakly Yoga Block Set,Sports,Yoga & Wellness,257.16,439.0
+PROD0199,ZenFlow Meditation Cushion,Sports,Yoga & Wellness,231.91,429.0
+PROD0200,Flexo Massage Gun,Sports,Yoga & Wellness,1251.45,2099.0

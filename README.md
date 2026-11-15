@@ -119,7 +119,8 @@ The Power BI report contains five interactive pages.
 <img width="1060" height="594" alt="products" src="https://github.com/user-attachments/assets/e221d389-ff27-4a2a-b9ad-2d51ebcc959b" />
 
 **Customer Analysis**
-<img width="1060" height="592" alt="customers" src="https://github.com/user-attachments/assets/660e5881-3fe1-4a51-bbde-c5de801d4ecd" />
+<img width="1058" height="590" alt="customers" src="https://github.com/user-attachments/assets/32694da1-49d0-44dc-b4c7-b66d880ec6a9" />
+
 
 **Returns Analysis**
 <img width="1058" height="592" alt="returns" src="https://github.com/user-attachments/assets/76b38004-779f-465e-9c18-b476f788b819" />

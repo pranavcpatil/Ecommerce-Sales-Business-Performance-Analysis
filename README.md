@@ -105,6 +105,86 @@ Dashboard pages:
 - There were 306 returned orders, representing a 6.12% return rate.
 - Total returned revenue was approximately ₹6.21 million.
 
+## Business Insights & Recommendations
+
+Based on the analysis of 5,000 e-commerce orders, the following insights highlight important areas of business performance.
+
+### 1. Revenue Performance
+
+- **Observation:** Total revenue reached ₹94.94 million, with a total profit of ₹17.08 million.
+- **Interpretation:** The business generated positive overall profit during the analysed period.
+- **Recommendation:** Monitor revenue and profit together to understand whether sales growth is also improving profitability.
+
+### 2. Product Performance
+
+- **Observation:** Electronics generated the highest category revenue at ₹54.12 million. Nexora Laptop 15-inch i7 16GB was the highest-revenue product, generating ₹15.13 million.
+- **Interpretation:** Electronics is the largest revenue-generating category, and the Nexora laptop is a significant product in the sales portfolio.
+- **Recommendation:** Monitor product demand, inventory availability and profit margins to support product-level decisions.
+
+### 3. Sales Channel Performance
+
+- **Observation:** Mobile App was the highest-revenue sales channel, generating approximately ₹42.51 million.
+- **Interpretation:** The mobile application contributed the largest share of sales revenue among the analysed channels.
+- **Recommendation:** Continue monitoring mobile app performance and investigate opportunities to improve the customer purchasing experience.
+
+### 4. Order Performance
+
+- **Observation:** Delivered orders accounted for 89.22% of total orders, while 6.12% were returned and 4.66% were cancelled.
+- **Interpretation:** Most orders were successfully delivered, but returned and cancelled orders still represent areas worth investigating.
+- **Recommendation:** Analyse return and cancellation patterns to identify possible improvements in order fulfilment and customer experience.
+
+### 5. Returns Performance
+
+- **Observation:** The business recorded 306 returned orders, representing a return rate of 6.12%. Returned revenue was approximately ₹6.21 million.
+- **Interpretation:** Returns represent a measurable impact on business performance.
+- **Recommendation:** Investigate return reasons and product-level return patterns to identify opportunities to reduce avoidable returns.
+
+## Business Insights & Recommendations
+
+Based on the analysis of 5,000 e-commerce orders, the following insights highlight important areas of business performance.
+
+### 1. Revenue Performance
+
+- **Observation:** Total revenue reached ₹94.94 million, with a total profit of ₹17.08 million.
+- **Interpretation:** The business generated positive overall profit during the analysed period.
+- **Recommendation:** Monitor revenue and profit together to understand whether sales growth is also improving profitability.
+
+### 2. Product Performance
+
+- **Observation:** Electronics generated the highest category revenue at ₹54.12 million. Nexora Laptop 15-inch i7 16GB was the highest-revenue product, generating ₹15.13 million.
+- **Interpretation:** Electronics is the largest revenue-generating category, and the Nexora laptop is a significant product in the sales portfolio.
+- **Recommendation:** Monitor product demand, inventory availability and profit margins to support product-level decisions.
+
+### 3. Sales Channel Performance
+
+- **Observation:** Mobile App was the highest-revenue sales channel, generating approximately ₹42.51 million.
+- **Interpretation:** The mobile application contributed the largest share of sales revenue among the analysed channels.
+- **Recommendation:** Continue monitoring mobile app performance and investigate opportunities to improve the customer purchasing experience.
+
+### 4. Order Performance
+
+- **Observation:** Delivered orders accounted for 89.22% of total orders, while 6.12% were returned and 4.66% were cancelled.
+- **Interpretation:** Most orders were successfully delivered, but returned and cancelled orders still represent areas worth investigating.
+- **Recommendation:** Analyse return and cancellation patterns to identify possible improvements in order fulfilment and customer experience.
+
+### 5. Returns Performance
+
+- **Observation:** The business recorded 306 returned orders, representing a return rate of 6.12%. Returned revenue was approximately ₹6.21 million.
+- **Interpretation:** Returns represent a measurable impact on business performance.
+- **Recommendation:** Investigate return reasons and product-level return patterns to identify opportunities to reduce avoidable returns.
+
+### Overall Business Recommendations
+
+Based on the findings, the business could:
+
+- Monitor product profitability alongside revenue.
+- Evaluate sales channel performance regularly.
+- Maintain appropriate inventory for high-revenue products.
+- Investigate returned and cancelled orders.
+- Use customer and sales trends to support better business decisions.
+
+These recommendations are based on the analysed dataset and are intended to support data-driven business decisions.
+
 ## Dashboard Preview
 
 The Power BI report contains five interactive pages.
